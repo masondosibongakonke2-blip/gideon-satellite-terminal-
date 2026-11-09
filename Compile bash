@@ -1,0 +1,2 @@
+g++ -O2 -std=c++17 entropy_filter.cpp -o entropy_filter
+./entropy_filter
